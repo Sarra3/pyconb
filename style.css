@@ -1,0 +1,44 @@
+body {
+    background: #d3d3d3;
+}
+
+.round {
+    border-radius: 24px;
+}
+
+.font {
+    font-family: 'Montserrat', sans-serif;
+    margin: 15px;
+}
+
+.btn-primary {
+    background: transparent;
+    color: white;
+    border-color: transparent;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active
+{
+    background: #F3D66C;
+    color: black;
+    border-color: #F3D66C;
+}
+
+h1, h2 {
+    margin-bottom: -12px;
+}
+h2, h3 {
+    font-family: 'Montserrat:regular', sans-serif;
+    max-height: inherit;
+    letter-spacing: 0px;
+}
+
+h2 {
+    font-size: 45px;
+}
+
+h3 {
+    font-size: 22px;
+}
